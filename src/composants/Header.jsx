@@ -8,4 +8,5 @@ const Header = () => {
       <TopTweets />
     </div>
   );
-}
+};
+export default Header;
