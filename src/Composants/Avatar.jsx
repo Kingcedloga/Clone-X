@@ -1,4 +1,4 @@
-import 
+import avatar from "./../images/profile-photo.png";
 
   const Avatar = () => {
     return (
