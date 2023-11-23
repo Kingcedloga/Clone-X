@@ -1,5 +1,5 @@
 import PageTitle from "./PageTitle";
-import TopTweets from "./topTweets";
+import TopTweets from "./TopTweets";
 
 const Header = () => {
   retun (
