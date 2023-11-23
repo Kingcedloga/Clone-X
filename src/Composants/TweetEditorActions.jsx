@@ -16,4 +16,4 @@ const TweetEditorActions = () => {
   );
 };
 
-export deefault TweetEditorActions;
+export default TweetEditorActions;

@@ -1,4 +1,4 @@
-import {BsStars} from "react-icons/bs";
+// import {BsStars} from "react-icons/bs";
 
 const TopTweets = () => {
   return (
