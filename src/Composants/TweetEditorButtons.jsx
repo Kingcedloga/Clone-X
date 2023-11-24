@@ -10,4 +10,4 @@ const TweetEditorButtons = () => {
     );
 };
 
-export default TweetEditorActions;
+export default TweetEditorButtons;

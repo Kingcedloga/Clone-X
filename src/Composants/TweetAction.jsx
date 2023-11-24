@@ -1,7 +1,7 @@
-import favoriteIcon from "./../images/React.svg";
-import retweetIcon from "./../images/Retweet.svg";
-import replyIcon from "./../images/Reply.svg";
-import repliesIcon from "./../images/Replies.svg";
+import favoriteIcon from "../images/React.svg";
+import retweetIcon from "../images/Retweet.svg";
+import replyIcon from "../images/Reply.svg";
+import repliesIcon from "../images/Replies.svg";
 
 const TweetAction = ({ valueFavoriteIcon, valueRetweetIcon, valueReplyIcon, valueRepliesIcon }) => {
 
